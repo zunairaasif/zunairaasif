@@ -48,6 +48,7 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/><br/>Canva</td>
   </tr>
 </table>
+<br>
 
 # <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/79685602-2797-42e2-ad41-8fd12ffa7a42" /> GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=zunairaasif&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
