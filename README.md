@@ -3,11 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=zunairaasif&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## <img width="23" height="23" alt="image" src="https://github.com/user-attachments/assets/a687f082-1f54-4512-9eb1-0565a1cca951" /> Socials 
-<a href="https://linkedin.com/in/zunaira-asif-9864i" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="20" height="20" style="vertical-align:middle; margin-right:5px;" />
-  <span style="color:#ffffff; background-color:#0077B5; padding:5px 10px; border-radius:5px; font-family:sans-serif; font-weight:bold;">LinkedIn</span>
-</a>
-
+[![LinkedIn](https://yourhostedbadge.com/linkedin-badge.svg)](https://linkedin.com/in/zunaira-asif-9864i)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C1351D&logoWidth=20)](mailto:zunairaa.dev@gmail.com)
 
 # 💻 Tech Stack
