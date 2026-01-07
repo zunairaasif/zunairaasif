@@ -41,6 +41,7 @@
   </tr>
 
    <tr>
+     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" width="40"/><br/>Shopify</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/><br/>Figma</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/><br/>Canva</td>
   </tr>
