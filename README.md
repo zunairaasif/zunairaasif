@@ -2,7 +2,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=zunairaasif&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## <img width="23" height="23" style="margin-bottom:-20px" alt="image" src="https://github.com/user-attachments/assets/a687f082-1f54-4512-9eb1-0565a1cca951" /> Socials 
+## <img width="23" height="23" style="padding-top:20px" alt="image" src="https://github.com/user-attachments/assets/a687f082-1f54-4512-9eb1-0565a1cca951" /> Socials 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&rounded=true)](https://linkedin.com/in/zunaira-asif-9864i) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C1351D&rounded=true)](mailto:zunairaa.dev@gmail.com)
 
