@@ -35,7 +35,7 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40"/><br/>Vercel</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40"/><br/>Netlify</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40"/><br/>AWS</td>
-    <td align="center"><img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg](https://cdn.simpleicons.org/github/ffffff)" width="40"/><br/>GitHub</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/github/ffffff" width="40"/><br/>GitHub</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40"/><br/>Jira</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/><br/>Postman</td>
   </tr>
