@@ -5,7 +5,7 @@
 ## <img width="23" height="23" alt="image" src="https://github.com/user-attachments/assets/a687f082-1f54-4512-9eb1-0565a1cca951" /> Socials 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&logoWidth=20)](https://linkedin.com/in/zunaira-asif-9864i)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C1351D&logoWidth=20)](mailto:zunairaa.dev@gmail.com)
-
+<br>
 
 # 💻 Tech Stack
 <table>
@@ -48,7 +48,7 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/><br/>Canva</td>
   </tr>
 </table>
-
+<br>
 
 # <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/79685602-2797-42e2-ad41-8fd12ffa7a42" /> GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=zunairaasif&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
